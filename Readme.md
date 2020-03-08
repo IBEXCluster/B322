@@ -4,13 +4,7 @@
 
 ## 1. Script is to download Tutorial data from the GEO accession GSE50760
 
-Download the example script :
 
-	wget --no-check-certificate --content-disposition https://github.com/IBEXCluster/B322/blob/master/download.sh
-
-Job Submission :
-
-	sh ./download.sh
 	
 
 	
