@@ -6,7 +6,7 @@
 
 Download the example script :
 
-	wget https://github.com/IBEXCluster/B322/blob/master/download.sh
+	wget --no-check-certificate --content-disposition https://github.com/IBEXCluster/B322/blob/master/download.sh
 
 Job Submission :
 
