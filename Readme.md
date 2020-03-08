@@ -1,6 +1,6 @@
-#Example scripts for CLASS: B322 hands-on session 
+# Example scripts for CLASS: B322 hands-on session 
 
-##Script is to download Tutorial data from the GEO accession GSE50760
+## Script is to download Tutorial data from the GEO accession GSE50760
 
 Job Submission :
 
