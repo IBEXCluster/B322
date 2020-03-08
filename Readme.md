@@ -6,7 +6,7 @@
 
 Download the example script :
 
-	wget 
+	wget https://github.com/IBEXCluster/B322/blob/master/download.sh
 
 Job Submission :
 
