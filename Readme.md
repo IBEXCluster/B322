@@ -4,7 +4,7 @@
 
 ## 1. Script is to download Tutorial data from the GEO accession GSE50760
 
-### Job Submission :
+Job Submission :
 
 	sh ./download.sh
 	
