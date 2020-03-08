@@ -2,7 +2,7 @@
 
 
 
-## 01. Script is to download Tutorial data from the GEO accession GSE50760
+### 01. Script is to download Tutorial data from the GEO accession GSE50760
 ## 02. Script is to run quality control tool for high throughput sequence data using FastQC
 ## 03. Script is to Trim the Fastq file using TRIMMOMATIC
 ## 04. Script is to run quality control tool for high throughput sequence data using FastQC AFTER trimming the reads 
