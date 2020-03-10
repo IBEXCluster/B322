@@ -37,7 +37,7 @@ if [ ! -f $READ2 ]; then
  break ;
 else
  mkdir -p $SRR
- sbatch --time=00:30:00 -A ibex-cs --mem=16GB --cpus-per-task=16 --wrap="fastqc --threads 16 -o $SRR $READ2"
+ sbatch --time=00:30:00 --mem=16GB --cpus-per-task=16 --wrap="fastqc --threads 16 -o $SRR $READ2"
  echo " "
  echo " quality control results will be generated in fastqc/$SRR directory"
 fi
