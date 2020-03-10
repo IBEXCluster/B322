@@ -25,7 +25,7 @@ if [ ! -f $READ1 ]; then
  break ;
 else
  mkdir -p $SRR
- sbatch --time=00:30:00 -A ibex-cs --mem=16GB --cpus-per-task=16 --wrap="fastqc --threads 16 -o $SRR $READ1"
+ sbatch --time=00:30:00 --mem=16GB --cpus-per-task=16 --wrap="fastqc --threads 16 -o $SRR $READ1"
 fi
 
 
